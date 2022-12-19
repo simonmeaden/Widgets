@@ -1,0 +1,4 @@
+/home/simonmeaden/workspace/HtmlScannerTest/libs/SMLibraries/build/CMakeFiles/libsmibraries.dir
+/home/simonmeaden/workspace/HtmlScannerTest/libs/SMLibraries/build/CMakeFiles/edit_cache.dir
+/home/simonmeaden/workspace/HtmlScannerTest/libs/SMLibraries/build/CMakeFiles/rebuild_cache.dir
+/home/simonmeaden/workspace/HtmlScannerTest/libs/SMLibraries/build/CMakeFiles/libsmibraries_autogen.dir
