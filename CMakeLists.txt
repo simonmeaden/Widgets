@@ -47,7 +47,7 @@ qt_standard_project_setup()
 #endif()
 
 target_include_directories(${PROJECT_NAME}
-    PUBLIC 
+    PUBLIC
         include
 #        $<INSTALL_INTERFACE:include>
 #        $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
@@ -56,7 +56,7 @@ target_include_directories(${PROJECT_NAME}
 )
 
 target_compile_options(${PROJECT_NAME}
-    PRIVATE 
+    PRIVATE
         -Werror
 #        -DCMAKE_PREFIX_PATH=/opt/Qt/
 )
@@ -97,7 +97,7 @@ target_sources(
 )
 
 target_compile_features(${PROJECT_NAME}
-    PRIVATE 
+    PRIVATE
         cxx_std_17
 )
 
@@ -111,7 +111,6 @@ target_link_libraries(${PROJECT_NAME}
         Qt${QT_VERSION_MAJOR}::Xml
         Qt${QT_VERSION_MAJOR}::Svg
 
-        CuteLogger
         Utilities::Utilities
         Docker::Docker
         QLNPlainText::QLNPlainText
