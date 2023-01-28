@@ -1,33 +1,6 @@
 <RCC>
     <qresource prefix="/icon">
-        <file alias="BlackDot">icons/blackdot.png</file>
-        <file alias="BlueDot">icons/bluedot.png</file>
-        <file alias="BookmarkFlag">icons/bookmarkflag.png</file>
-        <file alias="Cross">icons/cross.png</file>
-        <file alias="FoldedCross">icons/crossInSquare.png</file>
-        <file alias="CyanDot">icons/cyandot.png</file>
-        <file alias="DarkBlueDot">icons/darkbluedot.png</file>
-        <file alias="DarkGreenDot">icons/darkgreendot.png</file>
-        <file alias="DarkRedDot">icons/darkreddot.png</file>
-        <file alias="UnfoldedArrow">icons/fold.png</file>
-        <file alias="GreenDot">icons/greendot.png</file>
         <file alias="Copy">icons/hovercopy.png</file>
         <file alias="CopyPressed">icons/hovercopypressed.png</file>
-        <file alias="UnfoldedCross">icons/minusInSquare.png</file>
-        <file alias="OrangeDot">icons/orangedot.png</file>
-        <file alias="PinkDot">icons/pinkdot.png</file>
-        <file alias="RedDot">icons/reddot.png</file>
-        <file alias="FoldedArrow">icons/unfold.png</file>
-        <file alias="Warning">icons/warning12.png</file>
-        <file alias="WhiteDot">icons/whitedot.png</file>
-        <file alias="YellowDot">icons/yellowdot.png</file>
-        <file alias="Settings">icons/settings.svg</file>
-        <file alias="SettingsGear">icons/reshot-icon-setting-gear-wrench-GL97BQNX6K.svg</file>
-        <file alias="Html">icons/html.png</file>
-        <file alias="Comment">icons/comment.png</file>
-        <file alias="Text">icons/text.png</file>
-        <file alias="TextDrag">icons/textdrag.png</file>
-        <file alias="CommentDrag">icons/commentdrag.xcf</file>
-        <file alias="HtmlDrag">icons/htmldrag.png</file>
     </qresource>
 </RCC>

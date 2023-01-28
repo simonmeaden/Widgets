@@ -91,8 +91,8 @@ target_sources(
     # extended color dialog
     src/widgets/extendedcolordialog.cpp
 
-    src/widgets/icons.qrc
-    src/widgets/fonts.qrc
+#    src/widgets/icons.qrc
+#    src/widgets/fonts.qrc
 
 )
 
